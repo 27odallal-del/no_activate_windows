@@ -50,7 +50,7 @@ unsigned long __stdcall main_thread() {
       InvalidateRect(original_window, 0, true);
     }
 
-    Sleep(7200000);
+    Sleep(600000);
   }
 }
 
